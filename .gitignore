@@ -63,4 +63,5 @@ fabric.properties
 .idea/
 run.py
 dodge.py
-play.py
+*.pyc
+go/db.sqlite3
