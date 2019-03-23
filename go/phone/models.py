@@ -8,3 +8,7 @@ class Person(models.Model):
 class Phone(models.Model):
     number = models.CharField(max_length=30)
     shit = models.CharField(max_length=30)
+
+class Plala(models.Model):
+    number = models.CharField(max_length=30)
+    shit = models.CharField(max_length=30)
