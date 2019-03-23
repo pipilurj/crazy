@@ -2,3 +2,4 @@
 *.pyc
 dodge.py
 fuck.py
+*.sqlite3
